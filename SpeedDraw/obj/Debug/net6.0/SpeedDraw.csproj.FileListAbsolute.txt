@@ -1,0 +1,14 @@
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\bin\Debug\net6.0\SpeedDraw.exe
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\bin\Debug\net6.0\SpeedDraw.deps.json
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\bin\Debug\net6.0\SpeedDraw.runtimeconfig.json
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\bin\Debug\net6.0\SpeedDraw.dll
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\bin\Debug\net6.0\SpeedDraw.pdb
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.AssemblyInfoInputs.cache
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.AssemblyInfo.cs
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.csproj.CoreCompileInputs.cache
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.dll
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\refint\SpeedDraw.dll
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.pdb
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\SpeedDraw.genruntimeconfig.cache
+C:\Users\gogo\Desktop\softuni-c#\Nested\SpeedDraw\SpeedDraw\obj\Debug\net6.0\ref\SpeedDraw.dll
